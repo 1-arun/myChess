@@ -1,0 +1,33 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+.root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.rowDiv{
+    display: flex;
+   
+}
+
+.square {
+    height: 80px;
+    width: 80px;
+}
+
+.white {
+    background-color: wheat;
+}
+
+.green {
+    background-color: yellowgreen;
+}
