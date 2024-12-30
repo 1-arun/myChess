@@ -31,3 +31,8 @@ body {
 .green {
     background-color: yellowgreen;
 }
+
+.pieceImage{
+    width: 100%;
+    cursor: pointer;
+}
